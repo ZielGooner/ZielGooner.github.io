@@ -13,3 +13,7 @@
 <hr>
 <p></p>
 [**homework3-1**](https://ZielGooner.github.io/homework3-1.png)
+<p></p>
+[**homework3-2**](https://ZielGooner.github.io/homework3-2.png)
+<p></p>
+[**homework3-5**](https://ZielGooner.github.io/homework3-5.png)
