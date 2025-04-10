@@ -16,4 +16,6 @@
 <p></p>
 [**homework3-2**](https://ZielGooner.github.io/homework3-2.png)
 <p></p>
+[**homework3-3**](https://ZielGooner.github.io/homework3-3.png)
+<p></p>
 [**homework3-5**](https://ZielGooner.github.io/homework3-5.png)
